@@ -37,7 +37,7 @@ const Blogpagecontent = () => {
             />
             <div className="mt-5 w-full"> 
               <h2 className="text-xl lg:text-4xl md:text-3xl sm:text-2xl font-bold">{project.title}</h2>
-              <p className='mt-6 lg:text-base break-words'>{project.exp}</p>
+              <p className='mt-6 lg:text-xl break-words'>{project.exp}</p>
             </div>
           </div>
         </div>

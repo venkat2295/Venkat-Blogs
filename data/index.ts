@@ -75,15 +75,14 @@ export const projects = [
     title: "Recoil, is it best than Redux?",
     des: "Explore to know differences between recoil and redux",
     img: "/Redux_vs_Recoil.webp",
-    
-    exp:"helloooooooooo"
+    exp:"I checked out two popular tools for handling data in my React app: Redux and Recoil.Redux felt like a giant toolbox with lots of rules. This is great for big projects because it keeps everything organized and easy to fix if something breaks. But for a small project, it is way too much power for a simple job.Recoil, on the other hand, was way more relaxed. It's like a simple toolkit, easy to learn and use. This makes it perfect for smaller projects or if you're new to React. It might not be strong enough for giant projects but for smaller stuff or easier learning, Recoil is a great choice.So, which one to pick? It all depends on what you're building. If you're creating a massive app with tons of parts that all need to share data, then Redux might be better. But for something smaller or if you want to learn easily, Recoil will be your perfect data-management tool."
   },
   {
     id: 2,
     title: "What is Web Scrapping, do you know?",
     des: "Explore to know web scrapping and its advantages",
     img: "/webscraping.png",
-    exp:"kingggggggggg"
+    exp:"I just explored web scraping, and let me tell you, it's like having a superpowered research assistant for the web! Imagine all that time you spend copying and pasting stuff one by one? With web scraping, you can tell this assistant to grab everything you need on a specific topic from a website. It's like magic!These web scraping tools are basically like these assistants. They can snatch up tons of data for you, like all the info on products with prices and stuff, news articles about anything you can imagine, or even what people are buzzing about on social media. It's like finding a whole treasure trove of information!  Then, you can take all this data and organize it neatly into a spreadsheet or database, so it's easy to sort through.Businesses use web scraping for all sorts of reasons. They can use it to spy (in a good way!) on their competitors' prices, see what people are saying about their brand online, or even discover new trends in the market. It's a super powerful tool that lets you automate boring tasks, collect a ton of valuable info, and make decisions based on real data. Basically, it's like having a secret weapon for research!"
   },
   
 ];
